@@ -1,0 +1,37 @@
+baseurl = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Abde Data blog"
+theme = "hugo-theme-dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  #background = "black"
+  backgroundImage = "/img/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Abderrahmen Dhif"
+  description = "Customer Data scientist/Analyst,Statistics , Machine learning, R/shiny developer, Marketing, CRM, Digital, Retail, BasketBall"
+  avatar = "/img/me.jpg"
+  motto = "Abde"
+  
+  email = "dhif.abderrahmen@gmail.com"
+  github = "AbderrahmenDHIF"
+  linkedin = "abderrahmen-dhif-84011873/"
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
