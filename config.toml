@@ -106,7 +106,7 @@ canonifyURLs = true
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 6
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -129,6 +129,12 @@ canonifyURLs = true
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
+  
+  [[menu.main]]
+  name = "CV"
+  url = "/cv/"
+ # identifier = "fa fa-newspaper-o"
+  weight = 4
 
 [[menu.main]]
   name = "Categories"
