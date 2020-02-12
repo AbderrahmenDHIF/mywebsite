@@ -121,6 +121,8 @@ canonifyURLs = true
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
+  
+
 
 [[menu.main]]
   name = "Blog"
@@ -139,6 +141,8 @@ canonifyURLs = true
   url = "/contact/"
   identifier = "fa fa-envelope-o"
   weight = 6
+  
+
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
