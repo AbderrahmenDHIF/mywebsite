@@ -4,8 +4,10 @@ type: "about"
 date: "11/02/2020"
 ---
 
-Hi, I'm Abderrahmen Dhif, my freinds call me Abde.
+Hi, I’m Abderrahmen Dhif, my friends call me Abde.
 
-I'am from Tunisia where I graduated from my engineer's degree in statistcs at Carthage university in 2015, then I moved to France and I gratuated  from my master's degree in big data and machine learning at Reims university in 2016.
+I’am from Tunisia where I graduated from my engineer’s degree in statistics at Carthage university in 2015, then I moved to France and I graduated from my master’s degree in big data and machine learning at Reims university in 2016.
 
-After 6 years of studying, I started my first job in Paris as a Data scientist/analyst in retail industry. Specially, in marketing and customer insights division. 
+After 6 years of studying, I started my career as a Data scientist/analyst in retail industry. Specially, in marketing and customer insight department. My role is to analyse customer behaviours by using statistics and machine learning methods.
+
+As a data scientist and analytics specialist, I have two kind of tasks, the first one is a descriptive analytics, I developpe a recurrent reports about customers activity to help marketing and CRM teams follow-up the impact of their actions and decisions.
