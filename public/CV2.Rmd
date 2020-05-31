@@ -1,0 +1,156 @@
+---
+title: "Abderrahmen Dhif's resume"
+author: Abderrahmen Dhif
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    css: ['cv.css', 'style.css', 'resume']
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Dhif](me.png){width=50%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> dhifabderrahmen@hotmail.fr
+- <i class="fa fa-linkedin"></i> [abderrahmen](https://www.linkedin.com/in/abderrahmen-dhif-84011873/)
+- <i class="fa fa-phone"></i> +33 7 68 15 11 55
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+R, SQL, SPARK, SAS, SPSS MODELER
+
+Data management, Statistiques descriptives, Machine learning, Reportings interactifs
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Mise à jour `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Abderrahmen Dhif {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist/Analyst
+
+Passionné par les nouvelles technologies et techniques autour de l’exploitation de la data. Notamment, dans le marketing et le digital.
+
+
+Formation {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Université de Reims 
+
+MASTER 2 STATISTIQUE ET BIG DATA
+
+Reims,France
+
+2015 - 2016
+
+
+### Université de Carthage : École supérieure de la statistique
+
+INGÉNIEUR EN SATISTIQUE 
+
+Tunis,Tunisie
+
+2010 - 2015
+
+
+Expériences professionnelles {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Customer Data Scientist/Analyst
+
+Caroll international - Marketing clients
+
+Paris, France
+
+06/2019 - aujourd'hui
+
+- REPORTING PROFIL CLIENT ET OPTIMISATION DES CIBLAGES
+
+### Consultant Data Scientist
+
+Air France - Customer & Market insight
+
+Paris, France
+
+12/2018 - 06/2019
+
+- Optimisation de la segmentation clients  
+- Analyse textmining des commentaires 
+
+### Consultant Data Scientist
+
+Fnac Darty
+
+Paris, France
+
+11/2017 - 10/2018 
+
+- Manipulation de données et requétage sur un cluster hadoop
+- Création d’agrégats et calcul de KPIs 
+- Création de reporting interactifs en RMarkdown et RShiny 
+- Analyse de comportement des clients web 
+- Ciblage et bilan de campagne marketing 
+- Analyse de ré-achat 
+
+### Consultant Data Scientist
+
+Système U
+
+Paris, France
+
+08/2017 - 11/2017
+
+- Classification des produits selon la mixité 
+- Calcul des indices de mixité entre les produits 
+- Etablissement des règles d’associations 
+- Classification des produits
+
+### Data Scientist 
+
+Vivarte - CRM
+
+Paris, France
+
+04/2016 - 07/2017 
+
+- Analyse de l’impact des opérations commerciales 
+- Mise en place de reportings commerciaux 
+- Audit de base de données 
+- Segmentation RFM 
+- Etude géomarketing sur les clients web (géolocalisation des clients et des magasins)
+- Modélisation de score de ré-achat des clients pour une campagne mailing 
+- Analyse du ré-achat selon les leviers d’acquisition de trafic (SEO,SEA,display…)
+
+### Data Scientist 
+
+Ooredoo - Connaissance client
+
+Tunis, Tunisie
+
+03/2015 - 07/2015
+
+- Modélisation de la probabilité de churn et du chiffre d’affaires moyen par abonné 
+- Analyse du comportement des abonnés (CA,fréquenced’achat…) 
+- Mise en place d’uneapplication à l’aide de RShiny
+
