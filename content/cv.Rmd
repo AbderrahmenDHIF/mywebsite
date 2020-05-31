@@ -1,7 +1,0 @@
----
-title: "My CV"
-type: "cv"
-date: "11/02/2020"
----
-
-<iframe src="dhif_cv.pdf" height="1100" width="800"></iframe>
