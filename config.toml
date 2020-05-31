@@ -10,7 +10,7 @@ pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
 canonifyURLs = true
-   
+    
 [params]
   # Sets the meta tag description
   description          = "Data scientist/analyst, R developer, Marketing, Customer insights, CRM, Digital"
