@@ -37,6 +37,17 @@ After finishing my studies, I started my career as a Data scientist/analyst in r
     </item>
     
     <item>
+      <title>About me</title>
+      <link>/aboutfr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aboutfr/</guid>
+      <description>Bonjour, je m’appelle Abderrahmen Dhif,
+Je suis tunisien et j’habite à Paris, je suis Data scientist/analyst.
+Précisément, au sein de l’équipe connaissance clients. Mon rôle est divisé en 2 grandes parties. Première partie, c’est l’analyse des données clients afin d’aider les équipes business à prendre des décisions avec des chiffres et des analyses à l’appui. Deuxième partie, c’est le développement des modèles de machine learning dans le but de résoudre des problèmes marketing et d’optimiser les ciblages crm et digital.</description>
+    </item>
+    
+    <item>
       <title>contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
